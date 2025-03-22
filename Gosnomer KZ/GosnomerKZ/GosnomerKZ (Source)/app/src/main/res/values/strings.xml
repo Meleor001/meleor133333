@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Госномер KZ</string>
+    <string name="appbar_name">Госномер KZ - цена номера авто</string>
+    <string name="license_plate_number">Номерной знак:</string>
+    <string name="number_sample">Пример: 111BAG17</string>
+    <string name="calculate">Посчитать</string>
+
+    <string name="result_placeholder">Цена %1$s тенге (%2$s МРП)</string>
+    <string name="price_mrp">1 МРП на %1$s год %2$s тенге</string>
+
+    <string name="error">Введите номер в формате 123ABC12</string>
+</resources>
