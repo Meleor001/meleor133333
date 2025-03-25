@@ -1,0 +1,2 @@
+import{j as i}from"./URLStructureRouter-Dxb2l0gj.js";const o="_styledLink_16gdi_1",a={styledLink:o};function k({href:t,children:e,centered:n,...s}){const l=!!t&&!t.startsWith("#")&&!t.startsWith("mailto");return t?i.jsx("a",{href:t,className:a.styledLink,style:{width:s.width,textAlign:n?"center":"left"},...l?{target:"_blank",rel:"noopener"}:{},...s,children:e}):i.jsx("p",{className:a.styledLink,style:{width:s.width,textAlign:n?"center":"left"},...l?{target:"_blank",rel:"noopener"}:{},...s,children:e})}export{k as L};
+//# sourceMappingURL=Link-Bb4UBD-X.js.map

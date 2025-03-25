@@ -1,0 +1,2 @@
+import{u as m,r as o,j as a,W as i}from"./URLStructureRouter-Dxb2l0gj.js";import{g as l,a as p}from"./globals-srbWTo93.js";function f({operator:e}){const r=m(),s=o.useMemo(()=>e?l(e,r):p(r),[r,e]);return a.jsxs(i,{children:[s.map(({ogLocale:t})=>a.jsx("meta",{property:"og:locale:alternate",content:t},t)),s.map(({link:t,locale:n})=>a.jsx("link",{rel:"alternate",hrefLang:n,href:`https://www.bitrefill.com${t}`},t))]})}export{f as H};
+//# sourceMappingURL=HrefLang-DC_KKC_3.js.map

@@ -1,0 +1,32 @@
+{
+  "name": "Bitrefill",
+  "short_name": "Bitrefill",
+  "lang": "en-US",
+  "start_url": "https://www.bitrefill.com/buy",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#002b28",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.bitrefill.app",
+      "url": "https://play.google.com/store/apps/details?id=com.bitrefill.app"
+    }, {
+      "platform": "itunes",
+      "url": "https://itunes.apple.com/us/app/bitrefill/id1378102623"
+    }
+  ],
+  "prefer_related_applications": true
+}
